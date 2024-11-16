@@ -19,12 +19,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1: You Will need this link to access the files to install OsTicket:
+- Item 1: You will need this link to access the files to install OsTicket:
 -  (https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) 
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 2: In Azure, create a Windows 10 VM with at least two CPUs. Use remote desktop to log in, download the folder, and put it on the desktop.  
+- Item 3: You must enable IIS in Windows with CGI. Find World Wide Web Services -> application development features -> CGI 
 
 <h2>Installation Steps</h2>
 
