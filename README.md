@@ -31,7 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 - 1: Once you have moved the files to the desktop and installed IIS and CGI, you can install PHP Manager for IIS.
+</p>
+<p> 
 - 2: Then install AMD rewrite module 
+</p>
 - 3: In the C: drive, create a directory for PHP and unzip the file PHP 7.3.8 into that folder in C: 
 </p>
 <br />
