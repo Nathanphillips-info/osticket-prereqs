@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="![Screenshot 2024-11-16 095133](https://github.com/user-attachments/assets/b3f57e9d-8a0e-4172-a44f-ea8ddd9952a5)"/>
+<img src="(https://github.com/user-attachments/assets/b3f57e9d-8a0e-4172-a44f-ea8ddd9952a5)"/>
 </p>
 <p>
 - 1: Once you have moved the files to the desktop and installed IIS and CGI, you can install PHP Manager for IIS.
