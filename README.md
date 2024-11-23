@@ -47,7 +47,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/0fe7dc26-7281-47c7-bc7d-95c27833d706"/>
 </p>
 <p>
-
+- 1: Next, Install my SQL 
+- 2: You will want to use the typical setup and launch the config wizard once it is complete
+- 3: In the config wizard, select the standard configuration and, for ease, make the username and password both "root." This isn't good for security, but this is just for practice. 
+- 4: After completing this, you must register PHP from within IIS. Open IIS as an administrator and Register PHP. Then, you can browse to the PHP folder you created in the C: drive.
+- 5: Then reload IIS
 </p>
 <br />
 
