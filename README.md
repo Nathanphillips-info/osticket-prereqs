@@ -56,7 +56,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - 3: In the config wizard, select the standard configuration and, for ease, make the username and password both "root." This isn't good for security, but this is just for practice. 
 </p>
 <p>
-- 4: After completing this, you must register PHP from within IIS. Open IIS as an administrator and Register PHP. Then, you can browse to the PHP folder you created in the C: drive.
+- 4: After completing this, you must register PHP from within IIS. Open IIS as an administrator and Register PHP. Then, you can browse to the PHP folder you created in the C: drive. You will want to select the PHP CGI file. 
 </p>
 <p>
 - 5: Then reload IIS
