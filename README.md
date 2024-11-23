@@ -68,7 +68,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://github.com/user-attachments/assets/ac2d73f7-ed0b-4d16-902c-37e380af2ec3"/>
 </p>
+<p> 
+- 1: From the install files unzip the osticket folder and copy the upload folder into C:\inetpub\wwwroot. Then, in that directory, rename the upload folder "osTicket." Then, reload IIS again.  
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- 2: Once complete, go to PHP and under Sites -> Default -> osTicket. Then, click the Http browse feature on the right side to get to the osTicket Site. 
+</p>
+<img src="https://github.com/user-attachments/assets/abb79e81-1d93-42fc-94a3-6a386c9c3faa"/>
+<p>
+- 3: Some extensions must be enabled to complete the osTicket installation. In IIS -> default -> osTicket, double click PHP manager and enable extensions. The extensions php-imap.dil, php-intl.dil, and php-opcahce.dil will need to be enabled. Then, refresh the browser. 
+</p>
+<p>
+ - 4: In C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php, you must delete the word "sample" from the file name.  
+</p>
+<p>
+ - 5: Then, for ease of access, disable inherited permissions on the file and give everyone access.  
 </p>
 <br />
