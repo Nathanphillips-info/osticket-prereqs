@@ -83,4 +83,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
  - 5: Then, for ease of access, disable inherited permissions on the file and give everyone access.  
 </p>
+<p>
+- 1: Continue the setup in the browser, create an account for osTciket access. 
+</p>
+<p>
+- 2: Install Heidi SQL and open it. Create a new session and use "root" to connect it to SQL. Then right-click and create a database called osTicket.
+</p>
+<p>
+- 3: In the browser, set up the SQL database connection. My SQL database is osTicket, and my SQL username and password are root. Then install.  
+</p>
 <br />
