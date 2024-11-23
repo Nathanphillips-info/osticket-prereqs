@@ -44,8 +44,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="(https://github.com/user-attachments/assets/0fe7dc26-7281-47c7-bc7d-95c27833d706)"
-"/>
+<img src="https://github.com/user-attachments/assets/0fe7dc26-7281-47c7-bc7d-95c27833d706"/>
 </p>
 <p>
 
